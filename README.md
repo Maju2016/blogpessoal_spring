@@ -9,12 +9,6 @@
 <br />
  
 <div align="center">
-<img src="https://github.com/Maju2016/blogpessoal_spring.git" />
-<img src="https://github.com/Maju2016/blogpessoal_spring.git" />
-<img src="https://github.com/Maju2016/blogpessoal_spring.git" />
-<img src="https://github.com/Maju2016/blogpessoal_spring.git" />
-<img src="https://github.com/Maju2016/blogpessoal_spring.git" />
-<img src="https://github.com/Maju2016/blogpessoal_spring.git" />
 <img src="https://img.shields.io/badge/status-construção-yellow" alt="Status: Em Construção">
  
 </div>

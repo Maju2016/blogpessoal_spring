@@ -9,12 +9,12 @@
 <br />
  
 <div align="center">
-<img src="https://img.shields.io/github/languages/top/rafaelq80/aulas_java_t82?style=flat-square" />
-<img src="https://img.shields.io/github/repo-size/rafaelq80/aulas_java_t82?style=flat-square" />
-<img src="https://img.shields.io/github/languages/count/rafaelq80/aulas_java_t82?style=flat-square" />
-<img src="https://img.shields.io/github/last-commit/rafaelq80/aulas_java_t82?style=flat-square" />
-<img src="https://img.shields.io/github/issues/rafaelq80/aulas_java_t82?style=flat-square" />
-<img src="https://img.shields.io/github/issues-pr/rafaelq80/aulas_java_t82?style=flat-square" />
+<img src="https://github.com/Maju2016/blogpessoal_spring.git" />
+<img src="https://github.com/Maju2016/blogpessoal_spring.git" />
+<img src="https://github.com/Maju2016/blogpessoal_spring.git" />
+<img src="https://github.com/Maju2016/blogpessoal_spring.git" />
+<img src="https://github.com/Maju2016/blogpessoal_spring.git" />
+<img src="https://github.com/Maju2016/blogpessoal_spring.git" />
 <img src="https://img.shields.io/badge/status-construção-yellow" alt="Status: Em Construção">
  
 </div>
@@ -169,10 +169,10 @@ Para executar os códigos localmente, você precisará:
  
 ### 7.1. Importando o Projeto
  
-1. Clone o repositório do Projeto [Blog Pessoal](https://github.com/rafaelq80/blogpessoal_spring_t82) dentro da pasta do *Workspace* do STS
+1. Clone o repositório do Projeto [Blog Pessoal](https://github.com/Maju2016/blogpessoal_spring.git) dentro da pasta do *Workspace* do STS
  
 ```bash
-git clone https://github.com/rafaelq80/blogpessoal_spring_t82.git
+git clone https://github.com/Maju2016/blogpessoal_spring.git
 ```
  
 2. **Abra o STS** e selecione a pasta do *Workspace* onde você clonou o repositório do projeto
